@@ -1,0 +1,39 @@
+
+PERSONAL MINI-TOOLKIT PROJECT PLAN
+=================================
+
+Project Name: Personal Mini-Toolkit
+Programming Language: Python
+
+1. TOOLS SELECTED
+
+Tool 1: Simple Calculator
+This tool allows users to perform addition, subtraction, multiplication and division on two numbers.
+Concepts: Variables, input, type conversion, conditionals and f-strings.
+
+Tool 2: To-Do List Manager
+This tool allows users to add tasks, view their tasks and remove completed tasks.
+Concepts: Lists, loops, input and conditionals.
+
+Tool 3: Number Guessing Game
+This tool allows users to guess a secret number between 1 and 10 until they find the correct answer.
+Concepts: Loops, conditionals, variables and input.
+
+Tool 4: Grade Checker
+This tool allows users to enter their marks and receive a grade based on their performance.
+Concepts: Variables, input, conditionals and f-strings.
+
+2. EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Grade Checker
+5. Quit
+
+Enter your choice (1-5)
+
